@@ -1,0 +1,1 @@
+Create Centos 7.9 VMs on local Hyper-V with configured disks and IPs
